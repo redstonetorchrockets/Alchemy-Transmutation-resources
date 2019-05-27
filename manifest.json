@@ -1,0 +1,14 @@
+{
+    "format_version": 1,
+    "header": {
+        "name": "Equivalent Exchange 3",
+        "description": "This addon allows players to transmute materials into other materials.",
+        "uuid": "28f01206-80b3-11e9-bc42-526af7764f64",
+        "version": [0, 0, 1]
+    },
+    "modules": [{
+        "type": "resources",
+        "uuid": "2f2d7122-80b3-11e9-bc42-526af7764f64",
+        "version": [0, 0, 1]
+    }]
+}
