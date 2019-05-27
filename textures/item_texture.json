@@ -10,6 +10,9 @@
         }, 
         "minium_shard": {
             "textures": "textures/items/minium_shard"
+        },
+        "inert_stone": {
+            "textures": "textures/items/inert_stone"
         }
         
         
