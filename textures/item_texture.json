@@ -4,6 +4,12 @@
     "texture_data": {
         "minium_stone": {
             "textures": "textures/items/minium_stone"
+        },
+        "minium_dust": {
+            "textures": "textures/items/minium_dust"
+        }, 
+        "minium_shard": {
+            "textures": "textures/items/minium_shard"
         }
         
         

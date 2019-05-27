@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "description": {
+            "identifier": "rtr:minium_dust",
+            "category": "Equipment"
+        },
+
+        "components": {
+            "minecraft:icon": "minium_dust"
+        }
+    }
+}
